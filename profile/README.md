@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://brimble.app" target="_blank" rel="noopener noreferrer">
-    <img width="180" src="https://storage.googleapis.com/brimble-assets/logo_readme.svg" alt="Brimble logo">
+    <img width="180" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/o1qoh3j9wztndr9egkt9" alt="Brimble logo">
   </a>
 </p>
 
@@ -9,7 +9,7 @@
   <a href="https://github.com/brimblehq/brimble/discussions"><img src="https://badgen.net/badge/join%20the%20discussion/on%20github/black?icon=github" alt="github discussion"></a>
 </p>
 <p align="center">
-Brimble is an open-source web hosting platform that enables developers deploy their <b>frontend web apps, jamstack and static sites</b> with just 3 easy steps.
+Brimble is an open-source web hosting platform that enables developers to deploy their <b>frontend web apps, jamstack and static sites</b> with just 3 easy steps.
 </p>
 <p align="center">
   <a href="https://github.com/medusajs/medusa/blob/master/LICENSE">
@@ -24,4 +24,4 @@ Brimble is an open-source web hosting platform that enables developers deploy th
 </p>
 
 ## Useful links
-[Brimble Website](https://brimble.app) • [Twitter](https://twitter.com/intent/follow?screen_name=brimblehq)
+[Brimble Website](https://brimble.io) • [Twitter](https://twitter.com/intent/follow?screen_name=brimblehq)
