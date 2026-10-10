@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://brimble.io">
-    <img width="96" src="https://res.cloudinary.com/dgqfojhx4/image/upload/v1791464638/brimble-assets/landing/SVG/128X128_mdgkos.svg" alt="Brimble logo" />
+    <img width="64" src="https://res.cloudinary.com/dgqfojhx4/image/upload/v1791464638/brimble-assets/landing/SVG/128X128_mdgkos.svg" alt="Brimble logo" />
   </a>
 </p>
 
