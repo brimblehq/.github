@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://brimble.io">
-    <img width="200" src="https://res.cloudinary.com/dgqfojhx4/image/upload/v1791464594/brimble-assets/landing/BRIMBLR_LOGO_FULL_lwizei.svg" alt="Brimble logo" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dgqfojhx4/image/upload/e_negate,w_800/v1791464603/brimble-assets/landing/BRIMBLE_FULL_LOGO_lhs4ev.png" />
+      <img width="200" src="https://res.cloudinary.com/dgqfojhx4/image/upload/w_800/v1791464603/brimble-assets/landing/BRIMBLE_FULL_LOGO_lhs4ev.png" alt="Brimble logo" />
+    </picture>
   </a>
 </p>
 
