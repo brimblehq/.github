@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://paper.brimble.io
+    about: Guides and API reference
+  - name: Community (Discord)
+    url: https://discord.com/invite/XBCBwbXQJQ
+    about: Ask questions and discuss with the community
+  - name: Support
+    url: mailto:engineering@brimble.app
+    about: Email support for account or billing issues
+  - name: Security report
+    url: mailto:security@brimble.app
+    about: Report vulnerabilities privately — do not open a public issue
